@@ -31,6 +31,12 @@ takeaways.
 - **Elite books attract 8x more ratings** than average books — 
   quality and visibility are self-reinforcing
 
+  ## 💼 Business Recommendations
+
+- Promote high-performing titles to maximize engagement  
+- Use niche Bookstagram influencers to boost hidden gems  
+- Invest in long-form Fantasy & Historical Fiction content  
+
 ## 🛠️ Tools & Techniques
 - Microsoft Excel — Power Query, PivotTables, calculated columns
 - Power Query — data import, cleaning, conditional columns, 
@@ -78,7 +84,7 @@ I am a self-taught data analyst, economics post grad, and an avid fiction reader
 passionate about combining domain knowledge with data skills.
 
 
-[LinkedIn]((https://www.linkedin.com/in/aruja-srivastava-5197481b9/)) · 
+[LinkedIn](https://www.linkedin.com/in/aruja-srivastava-5197481b9/) · 
 [Email](arujawork@gmail.com)
 
 ---

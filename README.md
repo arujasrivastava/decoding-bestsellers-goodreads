@@ -5,22 +5,29 @@ Conducted an end-to-end data analysis of 8,100 Goodreads books
 using Excel Power Query and PivotTables to identify the quantitative 
 drivers of reader satisfaction, including page count distribution, 
 publisher tier performance, and community engagement patterns. 
-Engineered five calculated columns — including a hidden gem index 
-and a publisher classification framework — to surface non-obvious 
+Engineered five calculated columns, including a hidden gem index 
+and a publisher classification framework, to surface non-obvious 
 insights. Delivered findings through an interactive Excel dashboard 
 with dynamic slicers and a dedicated insights sheet with 7 business 
 takeaways.
+
+📊 Dashboard
+![Goodreads Dashboard](https://raw.githubusercontent.com/arujasrivastava/decoding-bestsellers-goodreads/main/goodreads_dashboard.png)
 
 ## ❓ Business Questions
 - Does reading more mean rating more generously?
 - What is the sweet spot for book length?
 - Do certain publishers consistently produce better rated books?
-- What makes a hidden gem — high quality but low visibility?
+- What makes a hidden gem: high quality but low visibility?
 - Has book quality (as rated by readers) changed across decades?
 
 ## 🔍 Key Findings
+
+📈 Insights
+![Goodreads Insights](https://raw.githubusercontent.com/arujasrivastava/decoding-bestsellers-goodreads/main/Goodreads_insights.png)
+
 - **Hidden gems rate 0.40 points higher** than mainstream books 
-  but receive 93% fewer ratings — high quality books are 
+  but receive 93% fewer ratings, high quality books are 
   systematically underdiscovered
 - **Epic books (700+ pages) rate highest at 4.15** — readers 
   reward depth and ambition
@@ -32,6 +39,9 @@ takeaways.
   quality and visibility are self-reinforcing
 
   ## 💼 Business Recommendations
+
+💡 Strategies
+  ![Goodreads Strategies](https://raw.githubusercontent.com/arujasrivastava/decoding-bestsellers-goodreads/main/goodreads_strategies.png)
 
 - Promote high-performing titles to maximize engagement  
 - Use niche Bookstagram influencers to boost hidden gems  
